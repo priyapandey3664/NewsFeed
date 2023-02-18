@@ -5,7 +5,7 @@
     background: #000;
     /* overflow: hidden; */
     overflow-x: hidden;
-    scroll-behavior: auto;
+    scroll-behavior: smooth;
     height: max-content;
 }
 
